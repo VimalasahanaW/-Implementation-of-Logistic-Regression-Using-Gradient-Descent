@@ -9,9 +9,13 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1.Import the required libraries.
-2.Load the dataset and print the values. 
-3.Define X and Y array and display the value. 
+
+2.Load the dataset and print the values.
+
+3.Define X and Y array and display the value.
+
 4.Find the value for cost and gradient. 
+
 5.Plot the decision boundary and predict the Regression value.
 
 ## Program:
